@@ -37,7 +37,13 @@
 
 	Modify the code in ``TextBoxEventV2.html`` and ``TextBoxEventV2.js`` so data about the event appears in the console log tab.
 
-<!-- # Part 3
+
+
+
+<!-- NEXT WEEK -->
+
+
+# Part 3
 
 1.	Examine the code in ``fruit1.html`` and ``fruit1.js``.  Add the necessary code to change the colour of all paragraphs to red.  Use the method ``setAttribute("style","color:red");``
 
@@ -69,4 +75,4 @@ Check your ``htdocs/JavaScript`` folder.  You should have a subfolder called ``l
 
 1.	Watch this [video](https://media.heanet.ie/page/205da5282eae9bd73455e8f82f4b5c27) that illustrates a program that records match events for a GAA match.  You will use the files given in the ``liveMatch`` folder to replicate this functionality.  
 
- -->
+
